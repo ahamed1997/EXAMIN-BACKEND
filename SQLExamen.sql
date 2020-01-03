@@ -1194,3 +1194,4 @@ end
 truncate table tblTestScorestemp
 truncate table tblTempScores
 ----------------------------------------------
+go
